@@ -139,9 +139,12 @@ footer a:hover{
     .content{
         flex-flow: row wrap;
     }
+    .text_information{
+        padding-left: 8vh;
+    }
 }
 
-@media(max-width: 920px){
+@media(max-width: 985px){
     .text_information{
         width: 100%;
         text-align: center;
